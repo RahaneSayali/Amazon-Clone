@@ -152,6 +152,7 @@ span{
 /* shop section */
 .shop-section{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: #e2e7e6;
 }
@@ -164,7 +165,7 @@ span{
 }
 .box-img{
     height: 300px;
-    background-image: contain;
+    background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
