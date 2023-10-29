@@ -222,3 +222,18 @@ ul a{
     background-size: cover;
     width: 100px;
 }
+.foot-panel4{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+}
+.pages{
+    font-size: 0.7rem;
+    text-align: center;
+    padding: 25px;
+}
+.copyright{
+    padding-top: 5px;
+    font-size: 0.7rem;
+    text-align: center;
+}
